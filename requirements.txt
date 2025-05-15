@@ -1,0 +1,4 @@
+langchain_huggingface
+langchain_core
+langchain_community
+python-dotenv
